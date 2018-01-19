@@ -1,4 +1,4 @@
-k# Cardboard Dividers
+# Cardboard Dividers
 OpenSCAD template/script for laser cutting cardboard holders for (primarily) networking equipment to go in hardcases (Pelicans).
 
 Currently the code supports specifying the dimensions of your hard case, the size of your objects, and the number of items you want to store. **NOTE:** The code has a hardcoded width of 2 items; a PR is welcome if you modify the code to support an arbitrary number of items wide.
